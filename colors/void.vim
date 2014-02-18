@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer:	Andrew Lyon <orthecreedence@gmail.com>
 " Last Change:	2012-03-21 06:01:00 PST
-" Version:	2.1
+" Version:	2.2
 
 " Note that this color scheme is loosely based off of desert.vim (Hans Fugal
 " <hans@fugal.net>) mixed with some of slate.vim (Ralph Amissah
