@@ -18,6 +18,7 @@ if version > 580
 endif
 let g:colors_name="void"
 
+
 hi Normal	guifg=#e0e0e0 guibg=grey15
 
 " highlight groups
@@ -106,4 +107,5 @@ hi Ignore	cterm=bold ctermfg=7
 hi Ignore	ctermfg=darkgrey
 hi Error	cterm=bold ctermfg=7 ctermbg=1
 
-
+" python specific highlightning
+hi link pythonOperator Statement
