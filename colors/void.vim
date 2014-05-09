@@ -19,7 +19,7 @@ endif
 let g:colors_name="void"
 
 
-hi Normal	guifg=#e0e0e0 guibg=grey15
+hi Normal	guifg=#e0e0e0 guibg=grey10
 
 " highlight groups
 hi Cursor	guibg=khaki guifg=slategrey
@@ -74,7 +74,7 @@ hi PmenuSel		guifg=#ddeeee guibg=#335533
 
 " color terminal definitions
 hi SpecialKey	ctermfg=darkgreen
-hi NonText	guibg=grey15 cterm=bold ctermfg=darkblue
+hi NonText	guibg=grey10 cterm=bold ctermfg=darkblue
 hi Directory	ctermfg=brown  guifg=#ddbb66
 hi ErrorMsg	cterm=bold ctermfg=7 ctermbg=1
 hi IncSearch	cterm=NONE ctermfg=yellow ctermbg=green
